@@ -1,0 +1,10 @@
+data/dataset.csv
+node_modules/
+slide_preview/
+slide_preview2/
+slide_preview3/
+slide_final/
+__pycache__/
+.ipynb_checkpoints/
+*.pdf
+package-lock.json
